@@ -8,5 +8,5 @@
 - Swing 
 
 # Demo Video: 
-Go to my Youtube Channel (Bacs) or use the link below
+Go to my Youtube Channel (Bacs) or use the link
 https://www.youtube.com/watch?v=jCwkF0LYf64
